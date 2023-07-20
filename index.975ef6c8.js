@@ -27089,7 +27089,7 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Henrique Rodrigues Nunes",
     title: "Analista de Service Desk",
-    email: "henriquenunes_si@outlook.com ",
+    email: "henriquenunes_si@outlook.com",
     gitHub: "github.com/RickyNunes",
     /*instagram: "microsoft",*/ linkedIn: "linkedin.com/in/henrique-si/"
 };
