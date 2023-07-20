@@ -27087,9 +27087,7 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Henrique Rodrigues Nunes",
-    title: "Analista de TI",
-    email: "henriquenunes_si@outlook.com",
+    /*name: "Henrique Rodrigues Nunes",*/ /*title: "Analista de TI",*/ email: "henriquenunes_si@outlook.com",
     gitHub: "github.com/RickyNunes",
     /*instagram: "microsoft",*/ linkedIn: "linkedin.com/in/henrique-si/"
 };
